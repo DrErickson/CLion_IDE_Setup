@@ -43,18 +43,19 @@ you can add your GitHub using **"Get from VCS"**.
 
     ![img_2.png](_md_images/Sign_in_to_GitHub.png)
 
-# Clone Bootcamp Material
+# How to Clone a GitHub Project
 
-Next, you will "clone" the bootcamp material from GitHub to your machine.
+To test your install, we will clone a test project repository.  You will first 
+"clone" the test material from GitHub to your machine.
 
-### Create a copy of the bootcamp repository
+### Create a copy of the test repository
 
 * Navigate to the 
-[bootcamp repository](https://github.com/DrErickson/CS301_Bootcamp).
+[test repository](https://github.com/DrErickson/CLion_IDE_Setup).
 
 * After that click on **"Use this template" &rarr; "Create a new repository"**
 
-    ![img_4.png](_md_images/Use_this_template.png)
+![img.png](_md_images/Use_this_template.png)
 
 * Give your repository a name. 
 * Mark your repository public or private based on 
@@ -63,7 +64,7 @@ view your repository.  Public will allow others to find and view your
 repository.
 * Click **"Create repository from template"**
 
-    ![img_6.png](_md_images/Create_a_new_respository_from_Bootcamp.png)
+![img.png](_md_images/Create_a_new_repository.png)
 
 ### Clone material to local machine
 

@@ -89,7 +89,7 @@ repository.
 
 Next you will need to configure your compiler.
 
-* [Windows Instructions](2%20-%20Compiler Setup%20(Windows).md)
+* [Windows Instructions](2%20-%20Compiler%20Setup%20(Windows).md)
 * [MacOS Instructions](2%20-%20Compiler%20Setup%20(MacOS).md)
 
 
